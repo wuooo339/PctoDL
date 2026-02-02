@@ -1,0 +1,13 @@
+{
+    "modelName":"swin_b",
+    "GPU resources":[30,30,40],
+    "max batchsize":360,
+    "batch size list":[8,8,8],
+    "model repository": "~/PctoDL/model_repositorys/swin_b_repository/",
+    "data set path":"~/PctoDL/data/imagenet/tiny-imagenet-200/test/images",
+    "log file path": "~/PctoDL/result/swin_b/swin_b_220.txt",
+    "SLO":60,
+    "belta":0.8,
+    "Power Cap": 220,
+    "alpha": 0.97
+}

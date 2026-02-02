@@ -1,0 +1,8 @@
+{
+  "kappa": 2.001827081059255,
+  "L_alpha": 0.38396881996848825,
+  "L_beta": 59.409243552533354,
+  "mse": 12.004722210869058,
+  "n_points": 16,
+  "description": "U_limit = L(u) + (100 - L(u)) * tanh(kappa * xi) / tanh(kappa), xi = (u - u_ref) / (100 - u_ref)"
+}

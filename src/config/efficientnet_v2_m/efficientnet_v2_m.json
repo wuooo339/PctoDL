@@ -1,0 +1,13 @@
+{
+    "modelName":"efficientnet_v2_m",
+    "GPU resources":[25,25,25,25],
+    "max batchsize":360,
+    "batch size list":[32,32,32,32],
+    "model repository": "~/PctoDL/model_repositorys/efficientnet_v2_m_repository/",
+    "data set path":"~/PctoDL/data/imagenet/tiny-imagenet-200/test/images"    ,
+    "log file path": "~/PctoDL/result/efficientnet_v2_m/efficientnet_v2_m_up.txt",
+    "SLO":60,
+    "belta":0.8,
+    "Power Cap": 190,
+    "alpha": 0.97
+}

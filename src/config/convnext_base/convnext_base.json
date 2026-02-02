@@ -1,0 +1,13 @@
+{
+    "modelName":"convnext_base",
+    "GPU resources":[35,35,30],
+    "max batchsize":360,
+    "batch size list":[8,8,4],
+    "model repository": "~/PctoDL/model_repositorys/convnext_base_repository/",
+    "data set path":"~/PctoDL/data/imagenet/tiny-imagenet-200/test/images",
+    "log file path": "~/PctoDL/result/convnext_base/convnext_base_190.txt",
+    "SLO":60,
+    "belta":0.8,
+    "Power Cap": 190,
+    "alpha": 0.97
+}

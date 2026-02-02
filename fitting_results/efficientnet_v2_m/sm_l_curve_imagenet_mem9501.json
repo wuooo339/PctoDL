@@ -1,0 +1,5 @@
+{
+  "L_alpha": 0.805359368792501,
+  "L_beta": 30.289407610001863,
+  "description": "Linear Anchor Locus: L(u) = alpha * u + beta"
+}

@@ -1,0 +1,13 @@
+{
+    "modelName":"maxvit",
+    "GPU resources":[33,33,33],
+    "max batchsize":360,
+    "batch size list":[32,32,32],
+    "model repository": "~/PctoDL/model_repositorys/maxvit_repository/",
+    "data set path":"~/PctoDL/data/imagenet/tiny-imagenet-200/test/images",
+    "log file path": "~/PctoDL/result/maxvit/maxvit_up.txt",
+    "SLO":60,
+    "belta":0.8,
+    "Power Cap": 200,
+    "alpha": 0.97
+}

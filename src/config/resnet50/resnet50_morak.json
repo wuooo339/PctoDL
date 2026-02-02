@@ -1,0 +1,13 @@
+{
+    "modelName":"resnet50",
+    "GPU resources":[40,40],
+    "max batchsize":420,
+    "batch size list":[1,2,4,8,16,32,48,64,80,96,112,128,144,160,176,192,208,224,240,256],
+    "SLO":100,  
+    "belta":0.9,
+    "model repository": "~/PctoDL/model_repositorys/resnet50_repository/",
+    "data set path":"~/PctoDL/data/imagenet/tiny-imagenet-200/test/images",
+    "log file path": "~/PctoDL/result/resnet50/resnet50_morak_down.txt",
+    "Power Cap": 170,  
+    "alpha": 0.98
+}

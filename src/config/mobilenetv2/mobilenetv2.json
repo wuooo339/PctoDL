@@ -1,0 +1,13 @@
+{
+    "modelName":"mobilenetv2",
+    "GPU resources":[25,25,25,25],
+    "max batchsize":360,
+    "batch size list":[64,64,64,64],
+    "model repository": "~/PctoDL/model_repositorys/mobilenetv2_repository/",
+    "data set path":"~/PctoDL/data/imagenet/tiny-imagenet-200/test/images",
+    "log file path": "~/PctoDL/result/mobilenetv2/mobilenetv2_125.txt",
+    "SLO":60,
+    "belta":0.8,
+    "Power Cap": 125,
+    "alpha": 0.99
+}

@@ -1,0 +1,10 @@
+# Python dependencies for PctoDL profiling tools
+numpy
+pandas
+matplotlib
+scikit-learn
+joblib
+nvidia-ml-py
+torch
+torchaudio
+torchvision

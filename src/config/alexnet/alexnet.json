@@ -1,0 +1,13 @@
+{
+    "modelName":"alexnet",
+    "GPU resources":[35,35,30],
+    "max batchsize":360,
+    "batch size list":[32,32,8],
+    "model repository": "~/PctoDL/model_repositorys/alexnet_repository/",
+    "data set path":"~/PctoDL/data/imagenet/tiny-imagenet-200/test/images",
+    "log file path": "~/PctoDL/result/alexnet/alexnet_100.txt",
+    "SLO":60,
+    "belta":0.8,
+    "Power Cap": 100,
+    "alpha": 0.97
+}

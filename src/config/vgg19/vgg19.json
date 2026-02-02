@@ -1,0 +1,13 @@
+{
+    "modelName":"vgg19",
+    "GPU resources":[35,35,30],
+    "max batchsize":360,
+    "batch size list":[16,16,4],
+    "model repository": "~/PctoDL/model_repositorys/vgg19_repository/",
+    "data set path":"~/PctoDL/data/imagenet/tiny-imagenet-200/test/images",
+    "log file path": "~/PctoDL/result/vgg19/vgg19_180.txt",
+    "SLO":60,
+    "belta":0.8,
+    "Power Cap": 180,
+    "alpha": 0.97
+}

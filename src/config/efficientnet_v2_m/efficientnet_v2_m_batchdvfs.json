@@ -1,0 +1,13 @@
+{
+    "modelName":"efficientnet_v2_m",
+    "GPU resources":[100],
+    "max batchsize":420,
+    "batch size list":[1,2,4,8,16,32,64,96,128,160,192,224,256,288,320,352,384,416,448,480,512,640,768,892,1024],
+    "SLO":100,
+    "belta":0.9,
+    "model repository": "~/PctoDL/model_repositorys/efficientnet_v2_m_repository/",
+    "data set path":"~/PctoDL/data/imagenet/tiny-imagenet-200/test/images",
+    "log file path": "~/PctoDL/result/efficientnet_v2_m/efficientnet_v2_m_batchdvfs_up.txt",
+    "Power Cap": 140,
+    "alpha": 0.98
+}

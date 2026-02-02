@@ -1,0 +1,13 @@
+{
+    "modelName":"bert",
+    "GPU resources":[33,33,33],
+    "max batchsize":360,
+    "batch size list":[16,16,16],
+    "model repository": "~/PctoDL/model_repositorys/bert_repository/",
+    "data set path":"~/PctoDL/data/SST-2/train.tsv",
+    "log file path": "~/PctoDL/result/bert/bert_150.txt",
+    "SLO":60,
+    "belta":0.8,
+    "Power Cap": 150,
+    "alpha": 0.97
+}

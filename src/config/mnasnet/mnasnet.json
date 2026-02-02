@@ -1,0 +1,13 @@
+{
+    "modelName":"mnasnet",
+    "GPU resources":[25,25,25,25],
+    "max batchsize":360,
+    "batch size list":[32,32,32,32],
+    "model repository": "~/PctoDL/model_repositorys/mnasnet_repository/",
+    "data set path":"~/PctoDL/data/imagenet/tiny-imagenet-200/test/images",
+    "log file path": "~/PctoDL/result/mnasnet/mnasnet_110.txt",
+    "SLO":60,
+    "belta":0.8,
+    "Power Cap": 110,
+    "alpha": 0.97
+}

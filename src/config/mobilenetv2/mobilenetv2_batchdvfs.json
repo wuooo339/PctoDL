@@ -1,0 +1,13 @@
+{
+    "modelName":"mobilenetv2",
+    "GPU resources":[100],
+    "max batchsize":420,
+    "batch size list":[1,2,4,8,16,32,48,64,80,96,112,128,144,160,176,192,208,224,240,256],
+    "SLO":200,
+    "belta":0.9,
+    "model repository": "~/PctoDL/model_repositorys/mobilenetv2_repository/",
+    "data set path":"~/PctoDL/data/imagenet/tiny-imagenet-200/test/images",
+    "log file path": "~/PctoDL/result/mobilenetv2/mobilenetv2_125_batchdvfs.txt",
+    "Power Cap": 125,
+    "alpha": 0.98
+}

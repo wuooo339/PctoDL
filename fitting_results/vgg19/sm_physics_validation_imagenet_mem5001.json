@@ -1,0 +1,8 @@
+{
+  "n_samples": 176,
+  "rmse": 187.61286053820547,
+  "mae": 24.702815643879184,
+  "r2": -300.26822417994373,
+  "max_abs_error": 2295.6761191475803,
+  "description": "Physics formula validation: U_SM_ref = U_limit * [1 - prod(1 - u_base_i/U_limit)]"
+}
